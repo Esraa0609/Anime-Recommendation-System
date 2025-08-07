@@ -7,7 +7,7 @@ Welcome to your ultimate anime discovery companion! Whether you're a seasoned ot
 
 ## 📖 What is this project about?
 
-This project is a smart **Anime Recommendation System** built with Python 🐍. It uses real user data and anime metadata to suggest shows you might love based on what you (and others) already enjoy.
+This project is a smart **Anime Recommendation System** built with Python. It uses real user data and anime metadata to suggest shows you might love based on what you (and others) already enjoy.
 
 We combine the power of:
 - 🔍 **Content-based filtering** (recommendations based on genre, type, etc.)
@@ -75,7 +75,8 @@ jupyter notebook Anime_Recommendation_System.ipynb
 - ☁️ Genre WordClouds  
 - 🔥 Correlation heatmaps for anime similarity  
 
-_(Screenshots can be added here if you'd like!)_
+<img width="745" height="499" alt="image" src="https://github.com/user-attachments/assets/e53e11e9-18d9-4098-b92e-212829428571" />
+
 
 ---
 
