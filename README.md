@@ -3,6 +3,8 @@
 
 Welcome to your ultimate anime discovery companion! Whether you're a seasoned otaku or a curious newcomer, this system will help you uncover new anime tailored to your unique tastes — from underrated gems to top-rated classics.
 
+<img width="745" height="499" alt="image" src="https://github.com/user-attachments/assets/e53e11e9-18d9-4098-b92e-212829428571" />
+
 ---
 
 ## 📖 What is this project about?
@@ -74,9 +76,6 @@ jupyter notebook Anime_Recommendation_System.ipynb
 - 🌟 Top-rated anime bar graphs  
 - ☁️ Genre WordClouds  
 - 🔥 Correlation heatmaps for anime similarity  
-
-<img width="745" height="499" alt="image" src="https://github.com/user-attachments/assets/e53e11e9-18d9-4098-b92e-212829428571" />
-
 
 ---
 
