@@ -111,19 +111,6 @@ Uses ratings from thousands of users to find patterns and suggest titles you hav
 - Integrate MAL or AniList API for live data 🔄  
 - Support for manga recs too? 🤔
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.  
-Feel free to fork, improve, and share!
-
----
-
-## 🙌 Acknowledgements
-
-- Huge thanks to [CooperUnion's Anime Dataset on Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
-- Anime lovers everywhere who made this dataset possible 💖
 
 ---
 
