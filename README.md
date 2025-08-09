@@ -92,18 +92,6 @@ Uses ratings from thousands of users to find patterns and suggest titles you hav
 
 ---
 
-## 📂 Folder Structure
-
-```
-📁 Anime-Recommendation-System/
-├── 📓 Anime_Recommendation_System.ipynb
-├── 📄 anime.csv
-├── 📄 rating.csv
-└── 📄 README.md
-```
-
----
-
 ## 🗺️ What's Next?
 
 - Add user interface using Streamlit or Flask 🖥️  
